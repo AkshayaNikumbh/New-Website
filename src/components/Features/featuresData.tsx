@@ -9,21 +9,28 @@ const featuresData: Feature[] = [
   },
   {
     id: 2,
+    icon: "/images/brands/UW.png",
+    title: "Fulbright Scholar",
+    paragraph: "University of Washington \n Sep 2019 - June 2020",
+  },
+  
+  {
+    id: 3,
     icon: "/images/brands/IISc.jpg",
     title: "Ph.D.",
     paragraph: "IISc Bangalore\nAug 2016 - Dec 2021",
   },
   {
-    id: 3,
+    id: 4,
     icon: "/images/brands/iist.png",
     title: "M.Tech.",
     paragraph: "Indian Institute of Space Science and Technology\n2014-2016",
   },
   {
-    id: 4,
+    id: 5,
     icon: "/images/brands/pune.jpg",
     title: "B.E. Electronics and Telecommunication",
-    paragraph: "Pune University\n",
+    paragraph: "Pune University\n2010-2014",
   },
 ];
 export default featuresData;
