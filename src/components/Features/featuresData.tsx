@@ -13,7 +13,7 @@ const featuresData: Feature[] = [
     title: "Fulbright Scholar",
     paragraph: "University of Washington \n Sep 2019 - June 2020",
   },
-  
+  \n
   {
     id: 3,
     icon: "/images/brands/IISc.jpg",
