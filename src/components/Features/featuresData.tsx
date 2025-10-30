@@ -9,7 +9,7 @@ const featuresData: Feature[] = [
   },
   {
     id: 2,
-    icon: "/images/brands/UW.png",
+    icon: "/images/brands/UWV.png",
     title: "Fulbright Scholar",
     paragraph: "University of Washington \n Sep 2019 - June 2020",
   },
