@@ -118,7 +118,7 @@ const Footer = () => {
             © 2025
             </Link>
             <span className="text-gray-400 text-sm">|</span>
-            <Link href="www.muhammedrashid.in" className="text-primary hover:text-primary/80 text-sm font-medium mx-4">
+            <Link href="https://www.akshayanikumbh.in/" className="text-primary hover:text-primary/80 text-sm font-medium mx-4">
               Akshaya Nikumbh
             </Link>
           
