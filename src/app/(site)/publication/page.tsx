@@ -40,7 +40,7 @@ const PublicationPage = () => {
                               <span className="font-bold">Akshaya C. Nikumbh</span>, Akash Devgan, Dargan Frierson, Subimal Gosh, Balaji Rajagopalan, Yi Ming
                             </p>
                         <p className="italic text-gray-600 dark:text-gray-400">
-                          <span className="italic">Prepreint</span> <a href="https://www.researchsquare.com/article/rs-7617796/v1" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 dark:text-blue-400">Link</a>
+                          <span className="italic">Preprint</span> <a href="https://www.researchsquare.com/article/rs-7617796/v1" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 dark:text-blue-400">Link</a>
                         </p>
                       </div>
                     </div>
