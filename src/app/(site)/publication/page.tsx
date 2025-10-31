@@ -37,7 +37,7 @@ const PublicationPage = () => {
                       </div>
                       <div className="ml-4 text-sm text-dark dark:text-white" style={{ fontFamily: 'EB Garamond, serif', fontSize: '1.1rem' }}>
                             <p className="mb-1">
-                              <span className="font-bold">Akshaya C. Nikumbh</span>, Akash Devgan, Dargan Frierson, Subimal Gosh, Balaji Rajagopalan, Yi Ming
+                              <span className="font-bold">Akshaya C. Nikumbh</span>, Akash Devgan, Dargan Frierson, Subimal Gosh, Vikram Chandel, Balaji Rajagopalan, Yi Ming
                             </p>
                         <p className="italic text-gray-600 dark:text-gray-400">
                           <span className="italic">Preprint</span> <a href="https://www.researchsquare.com/article/rs-7617796/v1" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 dark:text-blue-400">Link</a>
