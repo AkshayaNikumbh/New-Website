@@ -17,7 +17,39 @@ const PublicationPage = () => {
             <div className="mx-auto max-w-4xl">
               {/* Publications List */}
               <div className="space-y-12">
-                {/* Publication 1 */}
+
+                 {/* Publication 1 */}
+                <div className="publication-entry">
+                  <div className="flex items-start">
+                    <div className="flex-1">
+                      <div className="mb-2">
+                        <span className="text-lg font-bold uppercase text-dark dark:text-white" style={{ fontFamily: 'Source Sans Pro, sans-serif', letterSpacing: '0.5px', fontSize: '1.4rem' }}>
+                          GLOBAL HOTSPOTS OF LARGE PRECIPITATION EXTREMES
+                        </span>
+                        <a 
+                          href="https://www.researchsquare.com/article/rs-7617796/v1" 
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="ml-2 text-blue-600 hover:text-blue-800 dark:text-blue-400"
+                        >
+                          
+                        </a>
+                      </div>
+                      <div className="ml-4 text-sm text-dark dark:text-white" style={{ fontFamily: 'EB Garamond, serif', fontSize: '1.1rem' }}>
+                            <p className="mb-1">
+                              <span className="font-bold">Akshaya C. Nikumbh</span>, Akash Devgan, Dargan Frierson, Subimal Gosh, Balaji Rajagopalan, Yi Ming
+                            </p>
+                        <p className="italic text-gray-600 dark:text-gray-400">
+                          <span className="italic">Prepreint</span> <a href="https://www.researchsquare.com/article/rs-7617796/v1" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 dark:text-blue-400">Link</a>
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                
+                {/* Publication 2 */}
                     <div className="publication-entry">
                       <div className="flex items-start">
                         <div className="flex-1">
@@ -39,7 +71,7 @@ const PublicationPage = () => {
                               <span className="font-bold">Akshaya C. Nikumbh</span>, Pu Lin, David Paynter, Yi Ming
                             </p>
                         <p className="italic text-gray-600 dark:text-gray-400">
-                          in review, Preprint <a href="https://essopenarchive.org/users/575191/articles/671703-does-increasing-horizontal-resolution-improve-the-simulation-of-intense-tropical-rainfall" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 dark:text-blue-400">Link</a>
+                          GRL <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GL106708" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 dark:text-blue-400">Link</a>
                         </p>
                       </div>
                     </div>
@@ -49,7 +81,7 @@ const PublicationPage = () => {
                 {/* Divider Line */}
                 <div className="border-t border-gray-200 dark:border-gray-700"></div>
 
-                {/* Publication 2 */}
+                {/* Publication 3 */}
                 <div className="publication-entry">
                   <div className="flex items-start">
                     <div className="flex-1">
