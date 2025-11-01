@@ -45,13 +45,26 @@ const Hero = () => {
                 data-wow-delay=".25s"
               >
                 <div className="mt-0 lg:-mt-10">
-                  <Image
+                  { /*  <Image
                     src="/images/hero/hero_image.jpg"
                     alt="hero"
                     className="mx-auto w-full rounded-lg"
                     width={845}
                     height={500}
-                  />
+                  /> 
+                  */}
+                  <video
+                    className="mx-auto w-full rounded-lg"
+                    width={845}
+                    height={500}
+                    autoPlay
+                    loop
+                    muted
+                    playsInline
+                  >
+                    <source src="/images/hero/main_page_video.avif" type="video/mp4" />
+                    Your browser does not support the video tag.
+                  </video>
                 </div>
               </div>
             </div>
