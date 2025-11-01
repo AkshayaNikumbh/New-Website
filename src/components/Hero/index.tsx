@@ -53,7 +53,7 @@ const Hero = () => {
                     height={500}
                   /> 
                   */}
-                  <video
+                  <video onloadstart="this.playbackRate = 0.1;"
                     className="mx-auto w-full rounded-lg"
                     width={845}
                     height={500}
