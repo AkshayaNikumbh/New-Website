@@ -25,7 +25,7 @@ const projectCards = [
     title:
       "Urban Climate Extremes: Early Warning and Impact Assessment",
     investigators:
-      "Joint PI: Prof. S. Karmakar, Co-PIs: Prof. S. Gosh (IITB), Prof. Trupti Mishra (IITB), Prof. S. Ravichandran (IITB), Prof. Vishal Dixit (IITB), Prof. Amit Agrawal (IITB), Prof. Aparna Phadake (Mumbai University)",
+      "Joint PIs: Prof. S. Karmakar, Prof. Akshaya Nikumbh (IITB), Co-PIs: Prof. S. Gosh (IITB), Prof. Trupti Mishra (IITB), Prof. S. Ravichandran (IITB), Prof. Vishal Dixit (IITB), Prof. Amit Agrawal (IITB), Prof. Aparna Phadake (Mumbai University)",
     funding: "Funded by Department of Science and Technology",
   },
   {
