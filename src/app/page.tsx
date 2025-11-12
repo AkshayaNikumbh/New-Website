@@ -10,7 +10,7 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Akshaya Nikumbh - Atmospheric Convection and Dynamics Group",
-  description: "The Atmospheric Convection and Dynamics Group at CCS, IIT Bombay focuses on understanding diverse atmospheric phenomena elucidated by atmospheric dynamics and thermodynamics. This includes weather and climate extremes, the South-Asian summer monsoon and tropical-extratropical interactions.",
+  description: "The Atmospheric Convection and Dynamics Group at CCS, IIT Bombay, focuses on process-based understanding of a wide range of atmospheric phenomena through the lens of atmospheric dynamics and thermodynamics. Our research spans weather and climate extremes, the South Asian summer monsoon, and tropical–extratropical interactions.",
 };
 
 export default function Home() {
